@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aghyaz
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning FastAPI
-- 💞️ I’m looking to collaborate on FastAPI
+- 🌱 I’m currently learning world
+- 💞️ I’m looking to collaborate on hello world
 - 📫 How to reach me: email @ mohsinaghyaz@gmail.com
 
 <!---
